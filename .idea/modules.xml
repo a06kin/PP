@@ -3,7 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AndEngine-GLES2-AnchorCenter/AndEngine-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/../AndEngine-GLES2-AnchorCenter/AndEngine-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndEngineCocosBuilderExtension-GLES2-AnchorCenter/AndEngineCocosBuilderExtension-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/../AndEngineCocosBuilderExtension-GLES2-AnchorCenter/AndEngineCocosBuilderExtension-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndEngineCocosBuilderExtensionCCRotatingSpriteExtension-GLES2-AnchorCenter/AndEngineCocosBuilderExtensionCCRotatingSpriteExtension-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/../AndEngineCocosBuilderExtensionCCRotatingSpriteExtension-GLES2-AnchorCenter/AndEngineCocosBuilderExtensionCCRotatingSpriteExtension-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndEngineExamples-GLES2-AnchorCenter/AndEngineExamples-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/../AndEngineExamples-GLES2-AnchorCenter/AndEngineExamples-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndEngineMultiplayerExtension-GLES2-AnchorCenter/AndEngineMultiplayerExtension-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/../AndEngineMultiplayerExtension-GLES2-AnchorCenter/AndEngineMultiplayerExtension-GLES2-AnchorCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/../AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/../AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter/AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndEngineSVGTextureRegionExtension-GLES2/AndEngineSVGTextureRegionExtension-GLES2.iml" filepath="$PROJECT_DIR$/../AndEngineSVGTextureRegionExtension-GLES2/AndEngineSVGTextureRegionExtension-GLES2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndEngineServerExtension-GLES2-AnchorCenter/AndEngineServerExtension-GLES2-AnchorCenter.iml" filepath="$PROJECT_DIR$/../AndEngineServerExtension-GLES2-AnchorCenter/AndEngineServerExtension-GLES2-AnchorCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/PP.iml" filepath="$PROJECT_DIR$/PP.iml" />
     </modules>
   </component>
